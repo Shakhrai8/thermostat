@@ -1,5 +1,7 @@
 os: osx
 language: node_js
+node_js:
+  - "14.x"
 
 install:
   - npm install
