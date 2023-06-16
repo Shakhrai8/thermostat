@@ -38,6 +38,6 @@ class Thermostat {
       return "high usage";
     };
   };
-};
+}
 
 module.exports = Thermostat;
