@@ -14,7 +14,7 @@ This is a simple thermostat application built with JavaScript, Express.js, and H
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/thermostat.git
+   git clone https://github.com/Shakhrai8/thermostat.git
    ```
    
 2. Install the dependencies:
